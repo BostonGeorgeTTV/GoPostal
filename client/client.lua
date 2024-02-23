@@ -16,7 +16,10 @@ local loading = function()
         useWhileDead = false,
         canCancel = true,
         disable = {
-            controls = true
+            mouse = false,
+            car = true,
+            move = true,
+            combat = true,
         },
         anim = {
             dict = 'missheistdockssetup1clipboard@base',
@@ -51,7 +54,6 @@ local delivery = function()
             car = true,
             combat = true,
             mouse = false,
-            controls = false
         },
         anim = {
             dict = 'anim@heists@box_carry@',
