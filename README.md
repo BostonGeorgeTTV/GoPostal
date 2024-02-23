@@ -38,3 +38,5 @@ copia e incolla questo in ox_inventory/data/items.lua
 },<br>
 
 copia e incolla la png in ox_inventory/web/images
+
+https://www.youtube.com/watch?v=szrbnDR1LxQ
